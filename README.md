@@ -104,3 +104,23 @@ attributions = gs_ig_attributions(
 # 3. Aggregate & visualize
 token_scores = attributions["tokens"]    # per-token attributions
 visit_scores = attributions.get("visits", None)
+
+
+
+
+
+
+
+
+
+```bibtex
+@inproceedings{amirahmadi2025groupsparse,
+  title     = {Group-Sparse Manifold-Aware Integrated Gradients for Multimodal Transformers on {EHR} Trajectories},
+  author    = {Amirahmadi, Ali and Etminani, Farzaneh and Ohlsson, Mattias},
+  booktitle = {Proceedings of the Machine Learning for Health (ML4H) 2025},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {297},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=gYLChYGRA6}
+}
+
