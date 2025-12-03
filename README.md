@@ -109,7 +109,20 @@ visit_scores = attributions.get("visits", None)
 
 
 
+---
 
+## Citation
+
+If you use this code in your work, please cite:
+
+> **Group-Sparse Manifold-Aware Integrated Gradients for Multimodal Transformers on EHR Trajectories**  
+> Ali Amirahmadi, Farzaneh Etminani, Mattias Ohlsson  
+> *Proceedings of Machine Learning Research (PMLR) Vol. 297, ML4H 2025*  
+
+[📄 PDF (OpenReview)](https://openreview.net/pdf?id=gYLChYGRA6)
+
+
+```bibtex
 
 
 
