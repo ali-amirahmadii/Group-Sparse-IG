@@ -5,7 +5,7 @@
 > Ali Amirahmadi, Farzaneh Etminani, Mattias Ohlsson  
 > *Proceedings of Machine Learning Research (PMLR) Vol. 297, ML4H 2025*  
 
-[📄 PDF (OpenReview)](https://openreview.net/pdf?id=gYLChYGRA6)
+[📄 PDF (Proceedings of the Fifth Machine Learning for Health Symposium, PMLR 297:740-758, 2026)]([https://openreview.net/pdf?id=gYLChYGRA6](https://proceedings.mlr.press/v297/amirahmadi26a.html))
 
 ---
 
